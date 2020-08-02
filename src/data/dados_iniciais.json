@@ -1,0 +1,193 @@
+{
+  "categorias": [
+    {
+      "titulo": "Noção De Jogo",
+      "link": "",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Conhecimentos de como se comportar no jogo",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Treine suas habilidades e mecanicas com ajuda dos profissionais!",
+          "url": "https://youtu.be/fmI_Ndrxy14"
+        },
+        {
+          "titulo": "Guia De Wards",
+          "url": "https://youtu.be/AY-380R6f3Q"
+        },
+        {
+          "titulo": "Guia De Como Buildar",
+          "url": "https://youtu.be/ZxcwfgNv6zU"
+        },
+        {
+          "titulo": "Guia Sobre as Rotações Basicas",
+          "url": "https://youtu.be/ykC6Z_5-9sA"
+        },
+        {
+          "titulo": "Como Distribuir a vantagem",
+          "url": "https://youtu.be/ChjsobOJT6c"
+        },
+        {
+          "titulo": "Guia De Como tomar boas Decisões",
+          "url": "https://youtu.be/t_uy-veXOnQ"
+        },
+        {
+          "titulo": "Guia De Runas",
+          "url": "https://youtu.be/sXo4Tlt1MLs"
+        },
+        {
+          "titulo": "Guia Da Lane Phase",
+          "url": "https://youtu.be/TLN6SThPMpI"
+        },
+        {
+          "titulo": "Depois Da T1",
+          "url": "https://youtu.be/XVBsl04ahPE"
+        },
+        {
+          "titulo": "Quando Dar Roming",
+          "url": "https://youtu.be/X1mPyKh8zxo"
+        }        
+      ]
+    },
+    {
+      "titulo": "Mecanicas",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Parte motora da Gameplay",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Guia para treino de Farm",
+          "url": "https://youtu.be/qNLgumXaSxU"
+        },
+        {
+          "titulo": "Guia das Skillshots",
+          "url": "https://youtu.be/KtoOFUOde8Y"
+        },
+        {
+          "titulo": "Guia De Controle de Wave",
+          "url": "https://youtu.be/KSJ8ClfaWtM"
+        },
+        {
+          "titulo": "Guia De Kiti",
+          "url": "https://youtu.be/GSZwe1pJQss"
+        },
+        {
+          "titulo": "Guia De Trocas Na Lane",
+          "url": "https://youtu.be/p7QoW83o1XI"
+        } 
+      ]
+    },
+    {
+      "titulo": "Dicas",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Algumas Dicas que podem serem uteis para iniciantes",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Dicas para Iniciantes",
+          "url": "https://youtu.be/wHir9Yg3ZoQ"
+        },
+        {
+          "titulo": "Análise de Low Elo",
+          "url": "https://youtu.be/MS6hBBu_RZo"
+        },
+        {
+          "titulo": "Erros Comuns",
+          "url": "https://youtu.be/Ii-DeBuTn3g"
+        },
+        {
+          "titulo": "Mais Erros de Low Elo",
+          "url": "https://youtu.be/b1ZSALRhgrE"
+        }
+      ]
+    },
+    {
+      "titulo": "Conhecimentos Adicionais",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Armadura e Resistencia Magica",
+          "url": "https://youtu.be/eWSurhB_jnw"
+        },
+        {
+          "titulo": "Como Não Tiltar",
+          "url": "https://youtu.be/rMWn5_J_Glc"
+        },
+        {
+          "titulo": "As Lanes mais desejadas",
+          "url": "https://youtu.be/_k-1v3G9efE"
+        },
+        {
+          "titulo": "Skill Ceiling ",
+          "url": "https://youtu.be/549h43CXsAQ"
+        }
+      ]
+    },
+    {
+      "titulo": "Lanes",
+      "cor": "red",
+      "link_extra": {
+        "text": "Guias expecificos sobre cada lane e derivados",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Final Fantasy 7",
+          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+        },
+        {
+          "titulo": "Assassins Creed Valhalla",
+          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+        },
+        {
+          "titulo": "God of War 4",
+          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+        },
+        {
+          "titulo": "Resident Evil 8",
+          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+        },
+        {
+          "titulo": "Pokémon Let's Go Pikachu/Eevee",
+          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+        }
+      ]
+    },
+    {
+      "titulo": "Aprendendo a aprender tecnologia",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Curso sobre aprendizado na Alura",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "Como estudar melhor?",
+          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+        },
+        {
+          "titulo": "Faculdade",
+          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+        },
+        {
+          "titulo": "Frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        },
+        {
+          "titulo": "A mágica do Aprendizado",
+          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+        },
+        {
+          "titulo": "Como aprender a programar?",
+          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+        }
+      ]
+    }
+  ]
+}
